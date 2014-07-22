@@ -1,8 +1,8 @@
 {
-  "name": "hubot-example",
-  "description": "An example script package for Hubot",
+  "name": "adoptapet",
+  "description": "A Hubot script that delivers puppies, kittens, and other adoptable critters to your favorite chat client",
   "version": "1.0.0",
-  "author": "Tom Bell <tomb@tomb.io>",
+  "author": "Roman Gurovich<romangurovich@gmail.com>",
   "license": "MIT",
 
   "keywords": [
@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-example.git"
+    "url": "git@github.com:romangurovich/adoptapet.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-example/issues"
+    "url": "https://github.com/romangurovich/adoptapet/issues"
   },
 
   "dependencies": {
